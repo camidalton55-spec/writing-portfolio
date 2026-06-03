@@ -1,2 +1,13 @@
-# writing-portfolio
-Exploring relationships, human behavior, resilience, creativity, technology, and meaning through writing.
+# Writing Portfolio
+
+Welcome to my writing portfolio.
+
+I write about:
+
+- Relationships
+- Communication
+- Psychology
+- Personal growth
+- Motherhood
+- Creativity
+- Technology and AI
